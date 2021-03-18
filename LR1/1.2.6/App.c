@@ -2,6 +2,7 @@
 #include "App.h"
 #include <stdio.h>
 #include <conio.h>
+#include <math.h>
 
 /* 
 	Getting the first three numbers after the dot 
@@ -13,13 +14,14 @@ int Get_Sum(float num)
 	{
 		num=-num;
 	}
-	a = (num - (int)num)*1000;
+	a = round(num*1000);
 	
 	int s = 0;
 	int i; 
 	for( i = 0 ; i < 3; i++)
 	{
 		s += a % 10;
+		a-=a%10;
 		a /= 10;
 	}
 	return s;
