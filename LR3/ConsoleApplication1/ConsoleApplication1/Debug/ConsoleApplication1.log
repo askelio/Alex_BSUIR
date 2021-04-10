@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.c
+C:\Users\Alex\Desktop\BSUIR\Programming\LR3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(53,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alex\Desktop\BSUIR\Programming\LR3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(48,10): warning C4101: 'a': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Alex\Desktop\BSUIR\Programming\LR3\ConsoleApplication1\Debug\ConsoleApplication1.exe
