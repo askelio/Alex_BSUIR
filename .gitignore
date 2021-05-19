@@ -1,0 +1,11 @@
+  
+*/.vs
+Debug
+*.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.gcno
+*.gcda
+*.gcov
