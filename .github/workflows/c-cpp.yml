@@ -16,7 +16,7 @@ jobs:
     - name: test and compile
       run: |
         for d in */ ; do
-        cd "$d"
+        cd LR-7/Lab7/src
         make
         cd ..
         done
