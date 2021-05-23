@@ -16,7 +16,7 @@ jobs:
     - name: test and compile
       run: |
         cd LR-7
-        make LR-7/Lab7/src/Makefile
+        make Lab7/src/Makefile
         
       
     - name: Upload coverage to Codecov
