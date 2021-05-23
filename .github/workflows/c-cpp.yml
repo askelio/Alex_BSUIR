@@ -15,9 +15,10 @@ jobs:
     - uses: actions/checkout@v2
     - name: test and compile
       run: |
+        cd LR-7
         make LR-7/Lab7/src/Makefile
         
-        done
+      
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v1
       with:
