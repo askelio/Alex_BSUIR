@@ -23,5 +23,5 @@ jobs:
       uses: codecov/codecov-action@v1
       with:
         files: |
-          ./Lab7/MarriageAgency.cpp.gcov
-          ./Lab7/People.cpp.gcov
+          ./Lab7/src/MarriageAgency.cpp.gcov
+          ./Lab7/src/People.cpp.gcov
