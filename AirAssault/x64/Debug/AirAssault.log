@@ -1,0 +1,82 @@
+﻿  Game.cpp
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Game.cpp(327,23): warning C4305: '+=': truncation from 'double' to 'float'
+  Player.cpp
+  main.cpp
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(30,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(30,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(32,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(32,24): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(33,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(33,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(41,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(41,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(50,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(50,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(53,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(53,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(54,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(54,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(59,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(59,25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(60,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\Button.h(60,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\main.cpp(91,9): warning C4101: 'Y': unreferenced local variable
+C:\Users\Alex\Desktop\kyrs\AirAssault\AirAssault\main.cpp(91,6): warning C4101: 'X': unreferenced local variable
+  Generating Code...
+  AirAssault.vcxproj -> C:\Users\Alex\Desktop\kyrs\AirAssault\x64\Debug\AirAssault.exe
